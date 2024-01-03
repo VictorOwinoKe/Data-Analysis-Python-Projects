@@ -6,7 +6,7 @@
 
 **Description:** The transition from high school to university is a critical period in a student's life, often accompanied by significant emotional and mental challenges. This project aims to address the importance of mental health in college students by employing data analysis techniques, specifically focusing on EDA andd the implementation of a Random Forest model.
 
-**Objective:** Objective: Develop and implement a ML Clasifier model to understand the corelation factors associated with  mental health challenges among college students, achieving a minimum accuracy of 85% through comprehensive data analysis, with the goal of providing targeted support and actionable recommendations. Generate a classification report to assess the model's performance and create a visual representation of the confusion matrix. 
+**Objective:**  Develop and implement a ML Clasifier model to understand the corelation factors associated with  mental health challenges among college students, achieving a minimum accuracy of 85% through comprehensive data analysis, with the goal of providing targeted support and actionable recommendations. Generate a classification report to assess the model's performance and create a visual representation of the confusion matrix. 
 
 **Skills:**  `LogisticRegression`,  `EDA`,  `Model Training`,  `RandomForestClassifier`,  `Aggregate Functions`,  `Pandas Data Manipulation`,  `Matplotlib`
 
