@@ -13,7 +13,7 @@
 **Technology:**  `Python Notebook`
 
 ## 2.2 Optimizing Online Learning Engagement: Udacity A/B Testing Experiment
-**Code:** [Udacity A/B Testing Experiment](https://github.com/VictorOwinoKe/Data-Analysis-Python-Projects/blob/main/student-mental-analysis-eda-ml.ipynb)
+**Code:** [Udacity A/B Testing Experiment](https://github.com/VictorOwinoKe/Data-Analysis-Python-Projects/blob/main/ab-tests-with-python.ipynb)
 
 **Can asking students in advance about their time commitment reduce early course cancellations in online education??**
 
